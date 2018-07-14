@@ -1,6 +1,8 @@
-# Fashion_MNIST
-Image Classification on Fashion MNIST using Deep Learning.
+# Identify the Apparel
+Image Classification on Fashion MNIST Dataset using Deep Learning.
 
-10-class classification problem.
+10-class classification problem with targets being TYPE OF APPAREL like T-Shirt, Trousers, Bag etc
 
-CNN + Dropout + Data Augmentation
+Model:
+
+Convolution Neural Network + Data Augmentation + Dropout
